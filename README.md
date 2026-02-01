@@ -1,6 +1,6 @@
 # xddns
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/tonyzzp/xddns.svg)](https://pkg.go.dev/github.com/tonyzzp/xddns)
+[![Go Reference](https://pkg.go.dev/badge/github.com/mysteryzzp/xddns.svg)](https://pkg.go.dev/github.com/mysteryzzp/xddns)
 
 --------------
 
@@ -9,7 +9,7 @@
 
 ### 安装
 ```bash
-go install github.com/tonyzzp/xddns@latest
+go install github.com/mysteryzzp/xddns@latest
 ```
 
 ### 帮助

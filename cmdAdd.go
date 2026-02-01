@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/tonyzzp/xddns/dns"
+	"github.com/mysteryzzp/xddns/dns"
 
 	"github.com/urfave/cli/v2"
 )

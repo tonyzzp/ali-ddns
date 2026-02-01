@@ -7,10 +7,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/tonyzzp/xddns/ali"
-	"github.com/tonyzzp/xddns/cf"
-	"github.com/tonyzzp/xddns/config"
-	"github.com/tonyzzp/xddns/dns"
+	"github.com/mysteryzzp/xddns/ali"
+	"github.com/mysteryzzp/xddns/cf"
+	"github.com/mysteryzzp/xddns/config"
+	"github.com/mysteryzzp/xddns/dns"
 
 	"github.com/urfave/cli/v2"
 )

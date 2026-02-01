@@ -1,4 +1,4 @@
-module github.com/tonyzzp/xddns
+module github.com/mysteryzzp/xddns
 
 go 1.22.2
 

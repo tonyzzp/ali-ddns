@@ -6,8 +6,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/tonyzzp/xddns/config"
-	"github.com/tonyzzp/xddns/dns"
+	"github.com/mysteryzzp/xddns/config"
+	"github.com/mysteryzzp/xddns/dns"
 )
 
 type DnsCloudFlare struct {
